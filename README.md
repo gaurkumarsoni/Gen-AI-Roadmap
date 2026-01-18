@@ -1,1 +1,1 @@
-# GenAI-Course-notes
+# Gen-AI-Roadmap
